@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "taash"
+  site-url: "https://nasheqlbrm.github.io/taash"
+  description: "A deck of cards demo of [nbdev](https://nbdev.fast.ai)"
+  repo-branch: master
+  repo-url: "https://github.com/nasheqlbrm/taash"
